@@ -21,6 +21,8 @@ Follow the structure below for smoother usage.
 │   ├── focal_loss.py
 ├── train.py
 ├── test.py
+├── setup.sh
+├── run.sh
 ```
 
 

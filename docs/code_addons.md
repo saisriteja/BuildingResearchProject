@@ -5,3 +5,4 @@
 4. conda and envs( use python 3.10 or above since the previous version are deprecated)
 5. better comments ( add comments when you are using fixed vars.)
 6. better naming conventions( don't use i and j inside for loops.)
+7. pyclean( to clean the pycache)

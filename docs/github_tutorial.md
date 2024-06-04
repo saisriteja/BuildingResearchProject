@@ -23,6 +23,11 @@ git reset --hard <commit_id>
 git push origin v1 --force
 ```
 
+
+> use pyclean to remove all the cache.
+> use gitignore to ignore the files that you dont want to push.
+> dont upload heavy files and too many images to github, please log them in google drive and share up link the readme.
+
 make sure you are dealing things in the right way if you are working in a team and dont push to main branch.
 
 

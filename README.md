@@ -1,4 +1,4 @@
-# BuildingResearchProject
+# BuildingResearchProject for deep learning
 This repo is about building research project.
 
 
